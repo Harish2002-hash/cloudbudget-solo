@@ -27,7 +27,7 @@
     <string name="aws_spend">AWS SPEND</string>
     <string name="azure_spend">AZURE SPEND</string>
     <string name="gcp_spend">GCP SPEND</string>
-    <string name="view_trends">View Trends</string>
+    <string name="view_trends">Budget tracker</string>
     <string name="set_budget">Set Budget</string>
 
     <!-- Budget Manager -->
@@ -45,7 +45,7 @@
     <string name="active_waste_vectors">ACTIVE WASTE VECTORS</string>
 
     <!-- Spend Trends -->
-    <string name="spend_trends">Spend Trends</string>
+    <string name="spend_trends">Budget Tracker</string>
     <string name="daily_expenditure">Daily Expenditure</string>
 
     <!-- Alerts -->

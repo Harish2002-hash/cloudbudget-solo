@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:letterSpacing="-0.02"
-                android:text="Spend Trends 📈"
+                android:text="Budget tracker 📈"
                 android:textColor="@color/on_surface"
                 android:textSize="22sp"
                 android:textStyle="bold" />
